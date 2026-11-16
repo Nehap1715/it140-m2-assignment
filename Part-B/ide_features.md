@@ -2,34 +2,22 @@
 
 ## Introduction
 
-> Write a short reflection on your experience using the course IDE to complete your first programming assignment. Briefly describe what it was like to write, run, and test code in an IDE for the first time. Introduce the three IDE features you selected and briefly explain why learning to use IDE features can help you as a beginning programmer. Save specific examples for the feature sections below. Delete these instructions when done.
+Using the course IDE for my first programming assignment was a new and interesting experience. At first, writing and running Python code felt challenging because I was still learning how to understand the code and correct mistakes. As I worked through the assignment, I became more comfortable writing code, running the program, and checking whether the output was correct. The three IDE features I selected are the code editor, terminal, and debugging and error messages. Learning these features is important because they help beginning programmers write code, test programs, identify errors, and develop better programming skills.
 
-TODO: Replace with your introduction here.
+## Feature 1 – Code Editor
 
-## Feature 1 – TODO: Replace with name of your Feature1
+The code editor is one of the most important features of an IDE because it provides a place to write, edit, and organize programming code. While completing my first Python assignment, I used the code editor to write the program, including input statements, variables, and output statements. It helped me keep my code organized and made it easier to review and correct mistakes. The code editor also made it easier to understand the structure of my program and make changes when needed. Learning how to use the code editor is valuable for beginning programmers because it helps them develop readable and organized code.
 
-> In one paragraph, identify the first feature you selected, explain what it does, and describe how it helped you while developing or testing your program. Include specific details about how it improved your workflow, made coding easier, or helped you find and fix errors more efficiently. Delete these instructions when done.
 
-TODO: Replace with your Feature 1 paragraph here.
 
-## Feature 2 – TODO: Replace with name of your Feature2
+## Feature 2 – Terminal
 
-> Write one paragraph explaining your second feature. Describe how it functions, what benefits it provided while coding, and why it might be valuable for beginning programmers. Connect the feature to your personal experience using it in this project. Delete these instructions when done.
+The terminal is a feature that allows programmers to execute commands and run their programs. During my assignment, I used the terminal to run my Python program and check whether it worked correctly. Running the program helped me understand how the code I wrote produced results. I could enter the requested information and observe the output displayed by the program. The terminal was helpful because it allowed me to test my program and make sure the results matched what I expected. For beginning programmers, learning to use the terminal is important because it provides a practical way to run programs and understand how code works.
 
-TODO: Replace with your Feature 2 paragraph here.
+## Feature 3 – Debugging and Error Messages
 
-## Feature 3 – TODO: Replace with name of your Feature3
-
-> In a single paragraph, identify and explain a third IDE feature. Discuss how it enhanced your programming experience or supported best practices such as readability, debugging, or organization. Give a brief, real example of how you used it. Delete these instructions when done.
-
-TODO: Replace with your Feature 3 paragraph here.
+Debugging and error messages help programmers identify problems in their code and understand what needs to be corrected. While working on my first programming assignment, I learned that even a small mistake can prevent a program from running correctly. When errors occur, the IDE can display messages that help identify the location or type of problem. This feature is useful because it allows programmers to review their code and make corrections instead of starting over. Learning to understand error messages can help beginning programmers become more independent, improve their problem-solving skills, and gain confidence in writing programs.
 
 ## Conclusion
 
-> Summarize what you learned from using your IDE in this assignment. Reflect on how these features will support your future programming work and improve your confidence as a new programmer. Delete these instructions when done.
-
-TODO: Replace with your conclusion here.
-
-## References
-
-TODO: Replace with your source citations here in APA style, if any. Delete section heading and this text if not used.
+Completing my first programming assignment using the course IDE helped me understand how important IDE features are when developing a program. I learned how to write code in the code editor, execute my program using the terminal, and recognize the importance of debugging and error messages. These features made programming easier to understand and helped me become more comfortable working with Python. As I continue learning programming, I believe these IDE features will help me write better code, solve problems more effectively, and become a more confident programmer.
